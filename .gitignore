@@ -1,0 +1,5 @@
+project.ipynb
+*.sketch
+.ipynb_checkpoints/
+jupyter-notebooks/project.ipynb
+jupyter-notebooks/project_sample.jpg
