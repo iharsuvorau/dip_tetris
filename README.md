@@ -1,6 +1,6 @@
-University of Tartu, Institute of Technology
+<pre>University of Tartu, Institute of Technology
 LTTI.00.019
-2018/2019 Spring
+2018/2019 Spring</pre>
 
 # Digital Image Processing: Detection of Tetris-like shapes
 
